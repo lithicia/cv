@@ -2,7 +2,7 @@
   margin: 0;
 }
 .experience{
-  color: white;
+  color: black;
   background-color:#87CEFA;
   width: 50%;
 }
@@ -11,18 +11,18 @@
   color white;
   background-color:#FF7F50;
   width: 50%;
-  color: white;
+  color: black;
 }
 .interets{
   background-color:#FA8072;
-  color: white;
+  color: black;
   width: 50%;
   height: 50%
 
 }
 .profil{
   background-color:#ADFF2F;
-  color: white;
+  color: black;
 }
 
 /*.contenupage{
