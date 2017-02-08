@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+}
+body{
+  margin: 0;
+  background-color: pink;
+}
+.compentence{
+margin-top: 50;
+}
+
+.hautgauche{
+  background-color: brown;
+  height: auto;
+width: 30%;
+float: left;
+}
+.titre{
+  color: white;
+}
+.photo img{
+  height: 100px;
+  width: 100px;
+}
+.menu h4{
+border: 1px solid white;
+padding:2px;
+}
+.formation{
+  background-color: blue;
+  height: auto;
+  width: 30%;
+  float: left;
+}
+
+.listes{
+  text-align: left;
+}
